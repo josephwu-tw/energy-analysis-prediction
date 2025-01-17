@@ -1,0 +1,4 @@
+Model,RMSE,Highpeak Diff,Diff at Max
+XGBoost,9.849,-7.337,-31.263
+LightGBM,9.191,-1.893,-28.445
+LSTM,17.402,-5.442,-6.388
